@@ -1,0 +1,15 @@
+{
+  "name": "proxy-miner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "search": "node ./src/command.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cheerio": "^1.0.0-rc.3",
+    "node-fetch": "^2.6.0",
+    "scrape-it": "^5.2.3"
+  }
+}
