@@ -3,7 +3,7 @@ const cheerio = require('cheerio');
 const scrapeIt = require('scrape-it');
 
 const Fetch = () =>
-  fetch("https://www.sslproxies.org/", {
+  fetch("https://www.us-proxy.org/", {
     "headers": {
       // "user-agent": null
     },
