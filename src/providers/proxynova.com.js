@@ -40,7 +40,10 @@ const Fetch = () =>
     },
   }))
   .then(data => ({
-    proxies: data.proxies.filter(proxy => proxy.ip !== null)
+    proxies: data.proxies.filter(proxy => proxy.ip !== null).map(proxy => ({
+      ...proxy,
+      protocol: null
+    })),
   }));
 
 module.exports = Fetch;
