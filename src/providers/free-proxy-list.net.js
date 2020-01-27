@@ -1,16 +1,13 @@
 const fetch = require('node-fetch');
 const cheerio = require('cheerio');
-const Promise = require('bluebird');
 const scrapeIt = require('scrape-it');
 
-const Fetch = location =>
+const Fetch = () =>
   fetch("https://www.free-proxy-list.net/", {
     "headers": {
       // "user-agent": null
     },
-    "body": null,
     "method": "GET",
-    "mode": "cors"
   })
   .then(data => data.text())
   .then(text => cheerio.load(text))
