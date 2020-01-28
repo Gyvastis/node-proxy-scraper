@@ -1,4 +1,6 @@
 const fetch = require('node-fetch');
+const Promise = require('bluebird');
+fetch.Promise = Promise;
 const cheerio = require('cheerio');
 const scrapeIt = require('scrape-it');
 
