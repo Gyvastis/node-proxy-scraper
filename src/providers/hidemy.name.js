@@ -37,6 +37,20 @@ const Fetch = () =>
         },
       }
     },
-  }));
+  }))
+  .then(data => {
+    const allProxies = [];
+
+    data.proxies.map(proxy => proxy.protocol.map(protocol => {
+      allProxies.push({
+        ...proxy,
+        protocol
+      });
+    }))
+
+    return {
+      proxies: allProxies,
+    };
+  });
 
 module.exports = Fetch;
