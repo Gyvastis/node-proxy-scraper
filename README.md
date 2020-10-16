@@ -1,1 +1,1 @@
-# node-proxy-miner
+# handyproxy-scraper
