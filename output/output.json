@@ -2104,11 +2104,38 @@
         ],
         "meta": {
             "provider": "free-proxy-list.net",
-            "duration": 702
+            "duration": 725
         }
     },
     {
         "proxies": [
+            {
+                "ip": "13.244.144.176",
+                "port": "80",
+                "countryCode": "ZA",
+                "anonymity": "elite",
+                "protocol": "http"
+            },
+            {
+                "ip": "41.229.253.214",
+                "port": "8080",
+                "countryCode": "TN",
+                "protocol": "http"
+            },
+            {
+                "ip": "210.210.130.139",
+                "port": "56287",
+                "countryCode": "ID",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "95.31.119.210",
+                "port": "47930",
+                "countryCode": "RU",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
             {
                 "ip": "179.181.133.130",
                 "port": "8080",
@@ -2121,13 +2148,6 @@
                 "countryCode": "BR",
                 "anonymity": "elite",
                 "protocol": "https"
-            },
-            {
-                "ip": "210.210.130.139",
-                "port": "56287",
-                "countryCode": "ID",
-                "anonymity": "elite",
-                "protocol": "socks4"
             },
             {
                 "ip": "159.8.114.34",
@@ -2549,31 +2569,11 @@
                 "countryCode": "GB",
                 "anonymity": "elite",
                 "protocol": "https"
-            },
-            {
-                "ip": "109.61.112.10",
-                "port": "54631",
-                "countryCode": "HU",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "92.244.99.229",
-                "port": "3128",
-                "countryCode": "UA",
-                "protocol": "http"
-            },
-            {
-                "ip": "194.126.183.171",
-                "port": "57849",
-                "countryCode": "UA",
-                "anonymity": "elite",
-                "protocol": "socks4"
             }
         ],
         "meta": {
             "provider": "hidemy.name",
-            "duration": 1206
+            "duration": 938
         }
     },
     {
@@ -8349,7 +8349,7 @@
         ],
         "meta": {
             "provider": "proxy-list.download",
-            "duration": 483
+            "duration": 293
         }
     },
     null,
@@ -9058,7 +9058,7 @@
         ],
         "meta": {
             "provider": "sslproxies.org",
-            "duration": 205
+            "duration": 203
         }
     },
     {
@@ -10466,7 +10466,7 @@
         ],
         "meta": {
             "provider": "us-proxy.org",
-            "duration": 426
+            "duration": 479
         }
     }
 ]
