@@ -2,6 +2,13 @@
     {
         "proxies": [
             {
+                "ip": "80.65.28.57",
+                "port": "30962",
+                "countryCode": "RU",
+                "anonymity": "elite",
+                "protocol": "http"
+            },
+            {
                 "ip": "161.202.226.194",
                 "port": "8123",
                 "countryCode": "JP",
@@ -9,9 +16,30 @@
                 "protocol": "http"
             },
             {
+                "ip": "119.28.65.21",
+                "port": "80",
+                "countryCode": "HK",
+                "anonymity": "anonymous",
+                "protocol": "http"
+            },
+            {
                 "ip": "208.80.28.208",
                 "port": "8080",
                 "countryCode": "US",
+                "anonymity": "elite",
+                "protocol": "http"
+            },
+            {
+                "ip": "216.250.236.11",
+                "port": "3128",
+                "countryCode": "US",
+                "anonymity": "anonymous",
+                "protocol": "http"
+            },
+            {
+                "ip": "173.212.202.65",
+                "port": "80",
+                "countryCode": "DE",
                 "anonymity": "elite",
                 "protocol": "http"
             },
@@ -23,17 +51,108 @@
                 "protocol": "http"
             },
             {
-                "ip": "5.189.133.231",
-                "port": "80",
-                "countryCode": "DE",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
                 "ip": "203.202.245.62",
                 "port": "80",
                 "countryCode": "BD",
                 "anonymity": "anonymous",
+                "protocol": "http"
+            },
+            {
+                "ip": "162.243.108.129",
+                "port": "8080",
+                "countryCode": "US",
+                "anonymity": "anonymous",
+                "protocol": "http"
+            },
+            {
+                "ip": "89.20.135.204",
+                "port": "80",
+                "countryCode": "RU",
+                "anonymity": "anonymous",
+                "protocol": "http"
+            },
+            {
+                "ip": "210.206.241.242",
+                "port": "80",
+                "countryCode": "KR",
+                "anonymity": "anonymous",
+                "protocol": "http"
+            },
+            {
+                "ip": "175.141.69.200",
+                "port": "80",
+                "countryCode": "MY",
+                "anonymity": "anonymous",
+                "protocol": "http"
+            },
+            {
+                "ip": "51.132.53.3",
+                "port": "3128",
+                "countryCode": "GB",
+                "anonymity": "anonymous",
+                "protocol": "http"
+            },
+            {
+                "ip": "80.48.119.28",
+                "port": "8080",
+                "countryCode": "PL",
+                "anonymity": "elite",
+                "protocol": "http"
+            },
+            {
+                "ip": "103.6.104.104",
+                "port": "38898",
+                "countryCode": "PH",
+                "anonymity": "anonymous",
+                "protocol": "http"
+            },
+            {
+                "ip": "117.6.161.118",
+                "port": "53281",
+                "countryCode": "VN",
+                "anonymity": "anonymous",
+                "protocol": "http"
+            },
+            {
+                "ip": "140.238.84.65",
+                "port": "3128",
+                "countryCode": "GB",
+                "anonymity": "anonymous",
+                "protocol": "http"
+            },
+            {
+                "ip": "192.109.165.35",
+                "port": "80",
+                "countryCode": "DE",
+                "anonymity": "transparent",
+                "protocol": "http"
+            },
+            {
+                "ip": "88.255.60.220",
+                "port": "8080",
+                "countryCode": "TR",
+                "anonymity": "level3",
+                "protocol": "http"
+            },
+            {
+                "ip": "115.178.63.92",
+                "port": "3128",
+                "countryCode": "TH",
+                "anonymity": "level3",
+                "protocol": "http"
+            },
+            {
+                "ip": "103.14.198.209",
+                "port": "83",
+                "countryCode": "IN",
+                "anonymity": "level3",
+                "protocol": "http"
+            },
+            {
+                "ip": "5.189.133.231",
+                "port": "80",
+                "countryCode": "DE",
+                "anonymity": "elite",
                 "protocol": "http"
             },
             {
@@ -394,13 +513,6 @@
                 "protocol": "http"
             },
             {
-                "ip": "80.48.119.28",
-                "port": "8080",
-                "countryCode": "PL",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
                 "ip": "103.134.213.54",
                 "port": "8080",
                 "countryCode": "ID",
@@ -492,13 +604,6 @@
                 "protocol": "http"
             },
             {
-                "ip": "119.28.65.21",
-                "port": "80",
-                "countryCode": "HK",
-                "anonymity": "anonymous",
-                "protocol": "http"
-            },
-            {
                 "ip": "13.231.202.183",
                 "port": "80",
                 "countryCode": "JP",
@@ -569,13 +674,6 @@
                 "protocol": "http"
             },
             {
-                "ip": "216.250.236.11",
-                "port": "3128",
-                "countryCode": "US",
-                "anonymity": "anonymous",
-                "protocol": "http"
-            },
-            {
                 "ip": "154.72.204.122",
                 "port": "8080",
                 "countryCode": "UG",
@@ -586,13 +684,6 @@
                 "ip": "191.101.39.191",
                 "port": "80",
                 "countryCode": "SG",
-                "anonymity": "anonymous",
-                "protocol": "http"
-            },
-            {
-                "ip": "162.243.108.129",
-                "port": "8080",
-                "countryCode": "US",
                 "anonymity": "anonymous",
                 "protocol": "http"
             },
@@ -730,13 +821,6 @@
                 "protocol": "http"
             },
             {
-                "ip": "175.141.69.200",
-                "port": "80",
-                "countryCode": "MY",
-                "anonymity": "anonymous",
-                "protocol": "http"
-            },
-            {
                 "ip": "105.27.238.165",
                 "port": "80",
                 "countryCode": "KE",
@@ -824,13 +908,6 @@
                 "ip": "125.160.122.226",
                 "port": "3128",
                 "countryCode": "ID",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "173.212.202.65",
-                "port": "80",
-                "countryCode": "DE",
                 "anonymity": "elite",
                 "protocol": "http"
             },
@@ -1570,13 +1647,6 @@
                 "protocol": "http"
             },
             {
-                "ip": "117.6.161.118",
-                "port": "53281",
-                "countryCode": "VN",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
                 "ip": "202.169.244.178",
                 "port": "8181",
                 "countryCode": "ID",
@@ -2030,656 +2100,500 @@
                 "countryCode": "BD",
                 "anonymity": "elite",
                 "protocol": "http"
-            },
-            {
-                "ip": "36.67.66.100",
-                "port": "30142",
-                "countryCode": "ID",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "178.128.117.220",
-                "port": "8118",
-                "countryCode": "SG",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "23.92.216.178",
-                "port": "3128",
-                "countryCode": "US",
-                "anonymity": "transparent",
-                "protocol": "http"
-            },
-            {
-                "ip": "92.255.196.91",
-                "port": "8080",
-                "countryCode": "RU",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "5.20.91.12",
-                "port": "60792",
-                "countryCode": "LT",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "85.238.104.235",
-                "port": "47408",
-                "countryCode": "UA",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "82.200.233.4",
-                "port": "3128",
-                "countryCode": "KZ",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "187.243.255.174",
-                "port": "8080",
-                "countryCode": "MX",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "177.37.240.52",
-                "port": "8080",
-                "countryCode": "BR",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "187.45.123.137",
-                "port": "36559",
-                "countryCode": "BR",
-                "anonymity": "elite",
-                "protocol": "http"
             }
         ],
         "meta": {
             "provider": "free-proxy-list.net",
-            "duration": 574
+            "duration": 834
         }
     },
     {
         "proxies": [
             {
-                "ip": "161.202.226.194",
-                "port": "8123",
-                "countryCode": "JP",
+                "ip": "176.103.40.198",
+                "port": "44550",
+                "countryCode": "PL",
                 "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "167.86.98.179",
+                "port": "80",
+                "countryCode": "DE",
                 "protocol": "http"
             },
             {
-                "ip": "161.202.226.194",
-                "port": "8123",
-                "countryCode": "JP",
-                "anonymity": "elite",
+                "ip": "167.86.98.179",
+                "port": "80",
+                "countryCode": "DE",
                 "protocol": "https"
             },
             {
-                "ip": "180.250.12.10",
-                "port": "80",
-                "countryCode": "ID",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "91.135.148.198",
-                "port": "51498",
-                "countryCode": "RU",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "31.28.99.25",
-                "port": "31396",
-                "countryCode": "RU",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "62.106.122.90",
-                "port": "38678",
-                "countryCode": "RU",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "95.31.5.29",
-                "port": "54651",
-                "countryCode": "RU",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "5.23.102.194",
-                "port": "52803",
-                "countryCode": "RU",
-                "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "184.105.133.1",
-                "port": "48324",
+                "ip": "72.195.34.42",
+                "port": "4145",
                 "countryCode": "US",
                 "anonymity": "elite",
                 "protocol": "socks4"
             },
             {
-                "ip": "94.136.157.89",
-                "port": "60030",
-                "countryCode": "SK",
+                "ip": "94.127.217.66",
+                "port": "56411",
+                "countryCode": "RU",
                 "anonymity": "elite",
                 "protocol": "socks4"
             },
             {
-                "ip": "178.212.64.52",
-                "port": "49137",
+                "ip": "72.49.49.11",
+                "port": "31034",
+                "countryCode": "US",
+                "anonymity": "elite",
+                "protocol": "socks5"
+            },
+            {
+                "ip": "213.6.66.66",
+                "port": "57391",
+                "countryCode": "PS",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "212.126.119.6",
+                "port": "43854",
+                "countryCode": "IQ",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "78.154.176.154",
+                "port": "4145",
                 "countryCode": "UA",
                 "anonymity": "elite",
                 "protocol": "socks4"
             },
             {
-                "ip": "181.143.28.158",
-                "port": "4153",
-                "countryCode": "CO",
+                "ip": "72.249.235.201",
+                "port": "54321",
+                "countryCode": "US",
                 "anonymity": "elite",
                 "protocol": "socks4"
             },
             {
-                "ip": "85.175.227.3",
-                "port": "7014",
+                "ip": "174.70.241.7",
+                "port": "24385",
+                "countryCode": "US",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "184.178.172.13",
+                "port": "15311",
+                "countryCode": "US",
+                "anonymity": "elite",
+                "protocol": "socks5"
+            },
+            {
+                "ip": "174.70.241.14",
+                "port": "24392",
+                "countryCode": "US",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "178.168.67.89",
+                "port": "2580",
+                "countryCode": "MD",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "47.56.251.168",
+                "port": "1081",
+                "countryCode": "HK",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "217.218.233.164",
+                "port": "1080",
+                "countryCode": "IR",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "184.185.2.12",
+                "port": "4145",
+                "countryCode": "US",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "184.185.2.12",
+                "port": "4145",
+                "countryCode": "US",
+                "anonymity": "elite",
+                "protocol": "socks5"
+            },
+            {
+                "ip": "43.224.8.124",
+                "port": "6667",
+                "countryCode": "IN",
+                "anonymity": "elite",
+                "protocol": "socks5"
+            },
+            {
+                "ip": "184.75.247.46",
+                "port": "5444",
+                "countryCode": "US",
+                "anonymity": "elite",
+                "protocol": "socks5"
+            },
+            {
+                "ip": "109.86.225.146",
+                "port": "4145",
+                "countryCode": "UA",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "103.251.214.167",
+                "port": "6667",
+                "countryCode": "IN",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "98.185.94.76",
+                "port": "4145",
+                "countryCode": "US",
+                "anonymity": "elite",
+                "protocol": "socks5"
+            },
+            {
+                "ip": "88.247.138.7",
+                "port": "45534",
+                "countryCode": "TR",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "184.75.247.29",
+                "port": "52117",
+                "countryCode": "US",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "217.20.183.149",
+                "port": "4145",
+                "countryCode": "UA",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "78.110.154.177",
+                "port": "51676",
+                "countryCode": "RU",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "103.241.227.110",
+                "port": "6667",
+                "countryCode": "IN",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "174.76.48.252",
+                "port": "4145",
+                "countryCode": "US",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "174.76.48.252",
+                "port": "4145",
+                "countryCode": "US",
+                "anonymity": "elite",
+                "protocol": "socks5"
+            },
+            {
+                "ip": "80.240.248.183",
+                "port": "4153",
+                "countryCode": "RU",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "178.215.163.218",
+                "port": "4145",
+                "countryCode": "UA",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "46.151.150.11",
+                "port": "9999",
+                "countryCode": "UA",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "94.181.33.149",
+                "port": "40840",
+                "countryCode": "RU",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "37.17.168.163",
+                "port": "61865",
+                "countryCode": "HU",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "163.53.209.7",
+                "port": "6667",
+                "countryCode": "IN",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "77.48.23.199",
+                "port": "35004",
+                "countryCode": "CZ",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "92.51.73.14",
+                "port": "4153",
+                "countryCode": "GE",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "178.249.219.91",
+                "port": "4145",
+                "countryCode": "IT",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "89.249.247.216",
+                "port": "4145",
+                "countryCode": "RU",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "213.147.107.58",
+                "port": "57818",
+                "countryCode": "HR",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "178.254.174.196",
+                "port": "4145",
+                "countryCode": "RS",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "52.144.70.194",
+                "port": "4145",
+                "countryCode": "IT",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "165.16.54.209",
+                "port": "31618",
+                "countryCode": "LY",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "124.156.159.125",
+                "port": "9999",
+                "countryCode": "HK",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "124.156.159.125",
+                "port": "9999",
+                "countryCode": "HK",
+                "anonymity": "elite",
+                "protocol": "socks5"
+            },
+            {
+                "ip": "89.185.93.190",
+                "port": "4145",
+                "countryCode": "RU",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "31.43.63.70",
+                "port": "4145",
+                "countryCode": "UA",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "94.180.253.213",
+                "port": "1080",
+                "countryCode": "RU",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "62.87.151.186",
+                "port": "35190",
+                "countryCode": "PL",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "185.27.44.23",
+                "port": "10801",
+                "countryCode": "RU",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "81.177.73.10",
+                "port": "4153",
+                "countryCode": "RU",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "91.147.210.86",
+                "port": "4145",
+                "countryCode": "HU",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "80.72.66.207",
+                "port": "4153",
+                "countryCode": "BG",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "125.135.221.94",
+                "port": "54398",
+                "countryCode": "KR",
+                "anonymity": "elite",
+                "protocol": "socks5"
+            },
+            {
+                "ip": "135.181.91.172",
+                "port": "7755",
+                "countryCode": "DE",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "135.181.91.172",
+                "port": "7755",
+                "countryCode": "DE",
+                "anonymity": "elite",
+                "protocol": "socks5"
+            },
+            {
+                "ip": "88.202.177.242",
+                "port": "1090",
+                "countryCode": "NL",
+                "anonymity": "elite",
+                "protocol": "socks5"
+            },
+            {
+                "ip": "45.71.108.18",
+                "port": "46114",
+                "countryCode": "BR",
+                "anonymity": "elite",
+                "protocol": "http"
+            },
+            {
+                "ip": "95.143.8.182",
+                "port": "57169",
                 "countryCode": "RU",
                 "anonymity": "elite",
                 "protocol": "http"
             },
             {
-                "ip": "85.175.227.3",
-                "port": "7014",
-                "countryCode": "RU",
-                "anonymity": "elite",
-                "protocol": "https"
-            },
-            {
-                "ip": "77.37.240.23",
-                "port": "4145",
-                "countryCode": "RU",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "185.61.92.178",
-                "port": "4145",
-                "countryCode": "RU",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "95.220.214.93",
-                "port": "4145",
-                "countryCode": "RU",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "62.122.213.164",
-                "port": "8080",
-                "countryCode": "RU",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "62.122.213.164",
-                "port": "8080",
-                "countryCode": "RU",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "186.1.195.134",
-                "port": "1080",
-                "countryCode": "HT",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "186.159.1.58",
-                "port": "4145",
-                "countryCode": "CO",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "178.33.14.218",
-                "port": "9999",
-                "countryCode": "FR",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "72.210.252.152",
-                "port": "46154",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "72.210.252.152",
-                "port": "46154",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "98.190.102.62",
+                "ip": "162.212.225.198",
                 "port": "4145",
                 "countryCode": "US",
                 "anonymity": "elite",
                 "protocol": "socks4"
             },
             {
-                "ip": "184.178.172.5",
-                "port": "15303",
+                "ip": "212.56.203.114",
+                "port": "33804",
+                "countryCode": "MD",
+                "anonymity": "elite",
+                "protocol": "socks4"
+            },
+            {
+                "ip": "50.236.148.246",
+                "port": "31699",
                 "countryCode": "US",
                 "anonymity": "elite",
                 "protocol": "socks4"
             },
             {
-                "ip": "184.178.172.5",
-                "port": "15303",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "174.76.48.232",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "184.75.247.3",
-                "port": "21426",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "98.185.94.94",
-                "port": "4145",
-                "countryCode": "US",
+                "ip": "110.74.222.213",
+                "port": "33882",
+                "countryCode": "KH",
                 "anonymity": "elite",
                 "protocol": "socks4"
             },
             {
-                "ip": "174.70.241.10",
-                "port": "4145",
-                "countryCode": "US",
+                "ip": "103.4.94.178",
+                "port": "41350",
+                "countryCode": "PK",
                 "anonymity": "elite",
                 "protocol": "socks4"
             },
             {
-                "ip": "174.70.241.10",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "72.195.34.58",
-                "port": "4145",
-                "countryCode": "US",
+                "ip": "103.107.68.29",
+                "port": "5430",
+                "countryCode": "ID",
                 "anonymity": "elite",
                 "protocol": "socks4"
             },
             {
-                "ip": "174.76.48.225",
-                "port": "4145",
-                "countryCode": "US",
+                "ip": "178.216.2.229",
+                "port": "1488",
+                "countryCode": "UA",
                 "anonymity": "elite",
                 "protocol": "socks4"
             },
             {
-                "ip": "174.76.48.225",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "24.249.199.14",
-                "port": "57335",
-                "countryCode": "US",
+                "ip": "90.183.158.50",
+                "port": "44964",
+                "countryCode": "CZ",
                 "anonymity": "elite",
                 "protocol": "socks4"
             },
             {
-                "ip": "174.76.48.228",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "174.64.199.82",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "98.185.94.76",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "98.185.94.76",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "192.252.210.234",
-                "port": "4145",
-                "countryCode": "CA",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "181.101.84.37",
-                "port": "1080",
+                "ip": "143.202.136.51",
+                "port": "4153",
                 "countryCode": "AR",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "174.76.48.252",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "174.76.48.252",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "72.210.252.134",
-                "port": "46164",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "181.3.176.2",
-                "port": "1080",
-                "countryCode": "AR",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "134.209.100.103",
-                "port": "32534",
-                "countryCode": "SG",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "134.209.100.103",
-                "port": "32534",
-                "countryCode": "SG",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "184.185.2.244",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "192.252.208.67",
-                "port": "4145",
-                "countryCode": "CA",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "192.252.215.5",
-                "port": "4145",
-                "countryCode": "CA",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "103.216.82.37",
-                "port": "6667",
-                "countryCode": "IN",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "103.216.82.19",
-                "port": "6667",
-                "countryCode": "IN",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "103.216.82.19",
-                "port": "6667",
-                "countryCode": "IN",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "174.76.48.249",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "173.254.222.162",
-                "port": "1080",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "173.254.222.162",
-                "port": "1080",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "173.254.222.170",
-                "port": "1090",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "173.254.222.170",
-                "port": "1090",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "142.93.245.247",
-                "port": "30588",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "178.162.202.44",
-                "port": "1871",
-                "countryCode": "DE",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "178.162.202.44",
-                "port": "1871",
-                "countryCode": "DE",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "207.154.215.52",
-                "port": "30000",
-                "countryCode": "DE",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "207.154.215.52",
-                "port": "30000",
-                "countryCode": "DE",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "105.235.197.162",
-                "port": "54066",
-                "countryCode": "NG",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "24.249.199.4",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "174.70.241.18",
-                "port": "24404",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "184.178.172.18",
-                "port": "15280",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "66.42.224.229",
-                "port": "41679",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "184.178.172.28",
-                "port": "15294",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "184.178.172.28",
-                "port": "15294",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "41.138.56.3",
-                "port": "20191",
-                "countryCode": "NE",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "192.252.209.155",
-                "port": "14455",
-                "countryCode": "CA",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "116.203.103.227",
-                "port": "8888",
-                "countryCode": "GB",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "192.111.143.92",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "47.244.186.177",
-                "port": "4576",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "103.216.82.22",
-                "port": "6667",
-                "countryCode": "IN",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "103.216.82.22",
-                "port": "6667",
-                "countryCode": "IN",
-                "anonymity": "elite",
-                "protocol": "socks5"
-            },
-            {
-                "ip": "184.185.2.209",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "192.111.135.17",
-                "port": "4145",
-                "countryCode": "US",
-                "anonymity": "elite",
-                "protocol": "socks4"
-            },
-            {
-                "ip": "142.93.245.246",
-                "port": "30588",
-                "countryCode": "US",
                 "anonymity": "elite",
                 "protocol": "socks4"
             }
         ],
         "meta": {
             "provider": "hidemy.name",
-            "duration": 899
+            "duration": 1188
         }
     },
     {
@@ -8455,7 +8369,7 @@
         ],
         "meta": {
             "provider": "proxy-list.download",
-            "duration": 674
+            "duration": 430
         }
     },
     null,
@@ -9164,16 +9078,37 @@
         ],
         "meta": {
             "provider": "sslproxies.org",
-            "duration": 208
+            "duration": 168
         }
     },
     {
         "proxies": [
             {
+                "ip": "216.250.236.11",
+                "port": "3128",
+                "countryCode": "US",
+                "anonymity": "anonymous",
+                "protocol": "http"
+            },
+            {
+                "ip": "162.243.108.129",
+                "port": "8080",
+                "countryCode": "US",
+                "anonymity": "anonymous",
+                "protocol": "http"
+            },
+            {
                 "ip": "208.80.28.208",
                 "port": "8080",
                 "countryCode": "US",
                 "anonymity": "elite",
+                "protocol": "http"
+            },
+            {
+                "ip": "47.88.7.18",
+                "port": "8088",
+                "countryCode": "US",
+                "anonymity": "anonymous",
                 "protocol": "http"
             },
             {
@@ -9188,13 +9123,6 @@
                 "port": "80",
                 "countryCode": "US",
                 "anonymity": "elite",
-                "protocol": "http"
-            },
-            {
-                "ip": "47.88.7.18",
-                "port": "8088",
-                "countryCode": "US",
-                "anonymity": "anonymous",
                 "protocol": "http"
             },
             {
@@ -9219,20 +9147,6 @@
                 "protocol": "http"
             },
             {
-                "ip": "162.243.108.129",
-                "port": "8080",
-                "countryCode": "US",
-                "anonymity": "anonymous",
-                "protocol": "http"
-            },
-            {
-                "ip": "102.129.249.120",
-                "port": "8080",
-                "countryCode": "US",
-                "anonymity": "anonymous",
-                "protocol": "http"
-            },
-            {
                 "ip": "104.248.48.212",
                 "port": "31583",
                 "countryCode": "US",
@@ -9240,8 +9154,8 @@
                 "protocol": "http"
             },
             {
-                "ip": "216.250.236.11",
-                "port": "3128",
+                "ip": "102.129.249.120",
+                "port": "8080",
                 "countryCode": "US",
                 "anonymity": "anonymous",
                 "protocol": "http"
@@ -10572,7 +10486,7 @@
         ],
         "meta": {
             "provider": "us-proxy.org",
-            "duration": 671
+            "duration": 606
         }
     }
 ]
