@@ -1,1 +1,1 @@
-# handyproxy-scraper
+# node-proxy-scraper
